@@ -121,17 +121,17 @@
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\SALGRADE.sql">
+    <None Include="dbo\Tables\SALGRADE.sql">
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
-    </Build>
+    </None>
     <Build Include="dbo\Tables\DUMMY.sql">
       <AnsiNulls>On</AnsiNulls>
       <QuotedIdentifier>On</QuotedIdentifier>
     </Build>
-    <Build Include="dbo\Tables\EMP2.sql">
+    <None Include="dbo\Tables\EMP2.sql">
       <QuotedIdentifier>On</QuotedIdentifier>
-    </Build>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Exclude.publish.xml" />
