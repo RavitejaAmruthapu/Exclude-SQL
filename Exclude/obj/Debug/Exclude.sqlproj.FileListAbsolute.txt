@@ -1,0 +1,5 @@
+C:\Users\Teja\Documents\Visual Studio 2015\Projects\Exclude\Exclude\bin\Debug\Exclude.dacpac
+C:\Users\Teja\Documents\Visual Studio 2015\Projects\Exclude\Exclude\bin\Debug\Exclude.dll
+C:\Users\Teja\Documents\Visual Studio 2015\Projects\Exclude\Exclude\bin\Debug\Exclude.pdb
+C:\Users\Teja\Documents\Visual Studio 2015\Projects\Exclude\Exclude\obj\Debug\Exclude.dll
+C:\Users\Teja\Documents\Visual Studio 2015\Projects\Exclude\Exclude\obj\Debug\Exclude.pdb

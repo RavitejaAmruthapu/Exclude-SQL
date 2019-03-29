@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[DUMMY] (
+    [DUMMY] NUMERIC (18) NULL
+);
+

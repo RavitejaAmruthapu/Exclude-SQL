@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[BONUS] (
+    [ENAME] VARCHAR (10) NULL,
+    [JOB]   VARCHAR (9)  NULL,
+    [SAL]   NUMERIC (18) NULL,
+    [COMM]  NUMERIC (18) NULL
+);
+

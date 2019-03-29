@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[DEPT] (
+    [DEPTNO] NUMERIC (2)  NULL,
+    [DNAME]  VARCHAR (14) NULL,
+    [LOC]    VARCHAR (13) NULL
+);
+
